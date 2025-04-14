@@ -6,7 +6,7 @@
 
 # Project: GUI-QRCode-Generator
 
-# Version: 1.00
+# Version: 1.10
 
 <br>
 
